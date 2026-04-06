@@ -125,7 +125,7 @@ The focus of this project is on **clean UI, proper state management, and meaning
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/shreyam28/Finance_Dashboard
 
 # Navigate to project folder
 cd finance-dashboard
